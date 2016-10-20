@@ -1,2 +1,1 @@
-# k2-logging-central-fluentd
-Fluentd dependencies for central log processing container
+This directory holds Fluentd dependencies for the central log processing component. It's container image is located at: quay.io/leahnp/fluentd. Currently this is a component in the centralized logging system for Samsung Cloud Native Computing Team's K2 project.
